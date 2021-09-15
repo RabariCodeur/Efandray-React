@@ -1,0 +1,34 @@
+
+#Mess{
+    width: auto;
+    height: 600px;
+    margin-top: 35px;
+    position:relative;
+    background-color:#030106;  /*030106;*/
+    display: flex;
+    justify-content: center;
+}
+#Mess .card{
+   margin-top: 35px;
+    width: 800px;
+    height: 500px;
+    background-color:lightgrey;
+}
+#Mess textarea{
+    width: 80%;
+}
+#Mess .card-footer{
+    height: auto;
+}
+#Mess i{
+   margin-top: 15px;
+}
+#Mess .fa-paper-plane{
+       font-size: 30px;
+       color:chocolate;
+}
+#Mess input{
+    width: 45%;
+    border-radius: 30px;
+    outline: none;
+}

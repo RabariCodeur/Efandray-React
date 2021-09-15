@@ -1,0 +1,40 @@
+#login{
+    width: auto;
+    height: 600px;
+    margin-top: 30px;
+    background-color: #030106;
+}
+#login form{
+    margin-top: 20px;
+    justify-content: space-between;
+}
+#login input{
+    box-shadow: 10px 10px #eff3f5;
+}
+#login .card{
+    width: 450px;
+    height: 500px;
+    margin: 20px;
+    box-shadow: 10px 10px #83b6cd; /*83b6cd    /*#00a8f3*/
+}
+#login .card-header{
+    text-align: center;
+}
+#login .card-footer{
+    text-align: center;
+}
+#login .photo{
+    
+    height: 600px;
+    background-color:#19181a;
+    background-image: url('../assets/logo.png');
+    background-size: cover;
+}
+#login .post{
+    flex-direction: row;
+}
+#login button{
+    width: 100%;
+    margin-top: 20px;
+}
+

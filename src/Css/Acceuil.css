@@ -1,0 +1,126 @@
+#Acc.container-fluid{
+    width: auto;
+    background-color: #030106;
+    z-index: 4;
+}
+#Acc .media {
+    margin-top: 20px;
+    background-color: white;
+}
+#Acc .card{
+    background-color: white;
+    margin-top: 20px;
+    z-index: 1;
+}
+#Acc .card-header{
+    align-items: center;
+    padding: 10px;
+}
+
+#Acc h4{
+    text-align: center;
+}
+#Acc img.avatar {
+    width: 30%;
+    border-radius: 50px;
+    margin-left: 80px;
+}
+#Acc img.avatar2{
+    width: 10%;
+    margin-left: 5px;
+}
+#Acc img.ocean{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 200px;
+    
+}
+#Acc img.manAvatar{
+    width:70px;
+    }
+#Acc img.manAvatar:hover{
+       transform:scale(1.6);
+ }
+#Acc img.avatarMessage {
+    width:70px;
+}
+#Acc textarea {
+    width: 100%;
+    height: 50px;
+    outline: none;
+    background-color:transparent;
+}
+#Acc input.search{
+    width: 100%;
+    height: 30px;
+    border-radius:50px;
+    outline: none;
+}
+#Acc .container{
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+    background-color:white;
+
+}
+#Acc .paragrapheList {
+    margin-top: 20px;
+}
+#Acc .statusOnline{
+    position:absolute;
+    top:20px;
+    border-radius:30px;
+    width:10px;
+    height:10px;
+    background-color:green;
+}
+#Acc tr:hover {
+    background-color:lightgrey;
+}
+#Acc i {
+    color:mediumblue;
+    font-size: 100px;
+}
+#Acc .user-invitation{
+    display: flex;
+
+}
+#Acc .suggestion{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    background-color:white;
+}
+#Acc td#avatar{
+    width: 30%;
+}
+#Acc td#nom{
+   width: 60%;
+}
+#Acc td#userplus{
+     width: 10%;
+}
+#Acc img.userplus{
+    width:40px;
+    border-radius:50px;
+}
+#Acc footer{
+    width: auto;
+    background-color:#3f3f41;
+  
+} 
+#Acc .itemfooter{
+    
+    color: white;
+}
+#Acc i{
+    font-size: 10px;
+    color:white;
+}
+#Acc i.fa-user-plus{
+    color: red;
+}
+#Acc .divstatus{
+    position: relative;
+}

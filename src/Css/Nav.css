@@ -1,0 +1,13 @@
+#Nav{
+    position: sticky;
+    top: 0px;
+    background-color: #030106;
+    z-index: 50;
+}
+
+#Nav .container-fluid{
+    width: auto;
+}
+#Nav .nav-link{
+    color: white;
+}
